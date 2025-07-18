@@ -1,0 +1,8 @@
+i12-tws-loja/
+├── index.html
+├── css/
+│   └── styles.css
+└── assets/
+    ├── fone1.jpg
+    ├── fone2.jpg
+    └── lifestyle.jpg
